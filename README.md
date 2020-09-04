@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on finishing Lambda School!
 - 🌱 I’m currently attending Columbia College Chicago.
 - 🎓 Former DePaul Blue Demon!
-- 🥅 2020 Goals: Reach MVP on all side Projects!
 - ⚡ Fun fact: I moonlight as an Indie Game Dev on [twitch][Twitch]
 
 ### Connect with me:
@@ -18,12 +17,9 @@
 
 <br />
 <br />
-<details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-markanator.vercel.app/api?username=markanator&show_icons=true&hide_border=true" />
-
-</details>
 
 
 [website]: https://markambrocio.com
