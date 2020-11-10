@@ -1,7 +1,7 @@
 ### Hi there, I'm Mark! 👋
 
 [![Website](https://img.shields.io/website?label=markambrocio.com&style=for-the-badge&url=https%3A%2F%2Fmarkambrocio.com%2F)](https://markambrocio.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/_mark_ambro?color=%231DA1F2&label=follow%20%_mark_ambro&style=for-the-badge)](https://twitter.com/_mark_ambro)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_mark_ambro?color=%231DA1F2&label=follow%20_mark_ambro&style=for-the-badge)](https://twitter.com/_mark_ambro)
 ## I'm a Husband, Father, Developer, and Gamer!
 
 - 🔭 I’m currently working on finishing Lambda School!
@@ -23,6 +23,6 @@
 
 
 [website]: https://markambrocio.com
-[twitter]: https://twitter.com/Mark_Ambrocio1
+[twitter]: https://twitter.com/_mark_ambro
 [linkedin]: https://www.linkedin.com/in/mark-ambro/
 [twitch]: https://www.twitch.tv/palante_mark
