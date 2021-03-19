@@ -1,12 +1,14 @@
-### Hi there, I'm Mark! 👋
+# Hi there, I'm Mark! 👋
 
 [![Website](https://img.shields.io/website?label=markambrocio.com&style=for-the-badge&url=https%3A%2F%2Fmarkambrocio.com%2F)](https://markambrocio.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/_mark_ambro?color=%231DA1F2&label=follow%20_mark_ambro&style=for-the-badge)](https://twitter.com/_mark_ambro)
-## I'm a Husband, Father, Developer, and Gamer!
 
-- 🔭 I’m currently working on finishing Lambda School!
-- 🌱 I’m currently attending Columbia College Chicago.
-- 🎓 Former DePaul Blue Demon!
+## Full Stack Web Developer and Indie Game Dev.
+Hola, I'm Mark. I am a software engineer who is passionate about interactive media and helping connect people. I like to learn all things tech and help others with tech.
+
+- 🔭 I’m currently wrapping up Lambda School!
+- 🌱 I’m also currently attending Columbia College Chicago.
+- 🎓 I am a former DePaul Blue Demon!
 - ⚡ Fun fact: I moonlight as an Indie Game Dev on [twitch][Twitch]
 
 ### Connect with me:
