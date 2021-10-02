@@ -7,7 +7,7 @@
 Hola, I'm Mark. I am a software engineer who is passionate about interactive media and helping connect people. I like to learn all things tech and help others with tech.
 
 - 🔭 I’m currently wrapping up my Bachelor's in Application Programming with Columbia College Chicago!
-- 🎉 I am a[Lambda School Graduate!](https://www.credly.com/badges/572f9292-79b4-4e94-b3b0-6b45d910a174/public_url)
+- 🎉 I am a [Lambda School Graduate!](https://www.credly.com/badges/572f9292-79b4-4e94-b3b0-6b45d910a174/public_url)
 - 🎖️  I am a U.S. Army Veteran.
 - ⚡ Fun fact: I moonlight as an Indie Game Dev on [twitch][Twitch]
 
@@ -21,7 +21,7 @@ Hola, I'm Mark. I am a software engineer who is passionate about interactive med
 <br />
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-markanator.vercel.app/api?username=markanator&show_icons=true&hide_border=true" />
+  <img align="left" alt="markanator's Github Stats" src="https://github-readme-stats-markanator.vercel.app/api?username=markanator&show_icons=true&hide_border=true" />
 
 
 [website]: https://markambrocio.com
