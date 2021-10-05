@@ -8,7 +8,7 @@ Hola, I'm Mark. I am a software engineer who is passionate about interactive med
 
 - 🔭 I’m currently wrapping up my Bachelor's in Application Programming with Columbia College Chicago!
 - 🎉 I am a [Lambda School Graduate!](https://www.credly.com/badges/572f9292-79b4-4e94-b3b0-6b45d910a174/public_url)
-- 🎖️  I am a U.S. Army Veteran.
+- 🎖️ I am a U.S. Army Veteran.
 - ⚡ Fun fact: I moonlight as an Indie Game Dev on [twitch][Twitch]
 
 ### Connect with me:
@@ -16,14 +16,14 @@ Hola, I'm Mark. I am a software engineer who is passionate about interactive med
 [<img align="left" alt="markambrocio.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="markanator | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="markanator | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
-<br />
-  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="markanator's Github Stats" src="https://github-readme-stats-markanator.vercel.app/api?username=markanator&show_icons=true&hide_border=true" />
-  
-  [![Top Langs](https://github-readme-stats-markanator.vercel.app/api/top-langs/?username=markanator&layout=compact&langs_count=3)](https://github.com/markanator/github-readme-stats)
+### Github Stats:
+
+[![Anurag's GitHub stats](https://github-readme-stats-markanator.vercel.app/api?username=markanator)](https://github.com/markanator/github-readme-stats)
+<br />
+
+[![Top Langs](https://github-readme-stats-markanator.vercel.app/api/top-langs/?username=markanator&layout=compact&langs_count=3)](https://github.com/markanator/github-readme-stats)
 
 
 [website]: https://markambrocio.com
