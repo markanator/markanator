@@ -22,6 +22,8 @@ Hola, I'm Mark. I am a software engineer who is passionate about interactive med
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="markanator's Github Stats" src="https://github-readme-stats-markanator.vercel.app/api?username=markanator&show_icons=true&hide_border=true" />
+  
+  [![Top Langs](https://github-readme-stats-markanator.vercel.app/api/top-langs/?username=markanator&layout=compact)](https://github.com/markanator/github-readme-stats)
 
 
 [website]: https://markambrocio.com
