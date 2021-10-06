@@ -20,10 +20,11 @@ Hola, I'm Mark. I am a software engineer who is passionate about interactive med
 
 ### Github Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats-markanator.vercel.app/api?username=markanator)](https://github.com/markanator/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=markanator&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Markanator's GitHub stats](https://github-readme-stats-markanator.vercel.app/api?username=markanator&count_private=true&show_icons=true)](https://github.com/markanator/github-readme-stats)
 <br />
 
-[![Top Langs](https://github-readme-stats-markanator.vercel.app/api/top-langs/?username=markanator&layout=compact&langs_count=3)](https://github.com/markanator/github-readme-stats)
+[![Top Langs](https://github-readme-stats-markanator.vercel.app/api/top-langs/?username=markanator&layout=compact&langs_count=3&count_private=true&show_icons=true)](https://github.com/markanator/github-readme-stats)
 
 
 [website]: https://markambrocio.com
