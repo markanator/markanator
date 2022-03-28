@@ -6,9 +6,9 @@
 ## Full Stack Software Engineer and Indie Game Dev.
 Hola, I'm Mark. I am a software engineer who is passionate about interactive media and helping connect people. I like to learn all things tech and help others with tech.
 
-- 🔭 I’m currently wrapping up my Bachelor's in Application Programming with Columbia College Chicago!
-- 🎉 I am a [Lambda School Graduate!](https://www.credly.com/badges/572f9292-79b4-4e94-b3b0-6b45d910a174/public_url)
+- 👨🏻‍🎓 Columbia College Chicago Alumn
 - 🎖️ I am a U.S. Army Veteran.
+- 🎉 I am a [Lambda School Graduate!](https://www.credly.com/badges/572f9292-79b4-4e94-b3b0-6b45d910a174/public_url)
 - ⚡ Fun fact: I moonlight as an Indie Game Dev on [twitch][Twitch]
 
 ### Connect with me:
@@ -21,11 +21,6 @@ Hola, I'm Mark. I am a software engineer who is passionate about interactive med
 ### Github Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=markanator&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Markanator's GitHub stats](https://github-readme-stats-markanator.vercel.app/api?username=markanator&count_private=true&show_icons=true)](https://github.com/markanator/github-readme-stats)
-<br />
-
-[![Top Langs](https://github-readme-stats-markanator.vercel.app/api/top-langs/?username=markanator&layout=compact&langs_count=3&count_private=true&show_icons=true)](https://github.com/markanator/github-readme-stats)
-
 
 [website]: https://markambrocio.com
 [twitter]: https://twitter.com/_mark_ambro
