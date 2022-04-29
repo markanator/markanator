@@ -55,7 +55,7 @@ Hola, I'm Mark. I am a software engineer who is passionate about interactive med
         <img src="./imgs/slickSlice.png" width="200px;" alt=""/><br />
         <sub>
           <b>
-            Virtual Reality Funds
+            Mike's Pizza - Slick Slice
           </b>
         </sub>
       </a><br />
@@ -65,6 +65,20 @@ Hola, I'm Mark. I am a software engineer who is passionate about interactive med
       </div>
     </td>
     <td align="center">
+      <a href="https://github.com/markanator/rosemary-personal-financee">
+        <img src="./imgs/rosemaryPF.png" width="200px;" alt=""/><br />
+        <sub>
+          <b>
+            Rosemary Personal Finance
+          </b>
+        </sub>
+      </a><br />
+      <div style="font-size: 1.5rem;">
+        <i class="devicon-react-original" title="react"></i>
+        <i class="devicon-firebase-plain" title="firebase"></i>
+      </div>
+    </td>
+  <td align="center">
       <a href="https://github.com/markanator/fullstack-foodtruck-trackr">
         <img src="./imgs/foodtrucks.png" width="200px;" alt=""/><br />
         <sub>
@@ -76,10 +90,12 @@ Hola, I'm Mark. I am a software engineer who is passionate about interactive med
       <div style="font-size: 1.5rem;">
         <i class="devicon-react-original" title="react"></i>
         <i class="devicon-express-original" title="express"></i>
-        <i class="devicon-mongodb-plain-wordmark"></i>
+        <i class="devicon-mongodb-plain-wordmark" title="mongoDB"></i>
         <i class="devicon-heroku-original" title="heroku"></i>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/markanator/dang-thats-delicious">
         <img src="./imgs/dangThatsDelicious.png" width="200px;" alt=""/><br />
@@ -96,8 +112,6 @@ Hola, I'm Mark. I am a software engineer who is passionate about interactive med
         <i class="devicon-heroku-original" title="heroku"></i>
       </div>
     </td>
-  </tr>
-  <tr>
   <td align="center">
       <a href="https://github.com/markanator/portfolio">
         <img src="./imgs/portfolio.png" width="200px;" alt=""/><br />
@@ -114,6 +128,96 @@ Hola, I'm Mark. I am a software engineer who is passionate about interactive med
   </tr>
 </table>
 <!-- </details> -->
+
+## View my C# Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/markanator/csharp-ticket-tracker">
+        <img src="./imgs/underConstruction.png" width="200px;" alt=""/><br />
+        <sub>
+          <b>
+            The Bug Tracker
+          </b>
+        </sub>
+      </a><br />
+      <div style="font-size: 1.5rem; display: flex; justify-content: center;">
+      <i class="devicon-csharp-plain" style="margin-right: .5rem;" title="C#"></i>
+      <i class="devicon-dotnetcore-plain" style="margin-right: .5rem;" title="ASP.NET"></i>
+      <p style="font-size: 1rem" style="margin-right: .5rem;">MVC</p>
+      <i class="devicon-nuget-original" style="margin-left: .5rem;" title="nuget"></i>
+      <i class="devicon-postgresql-plain"style="margin-left: .5rem;" title="postgresql"></i>
+      <i class="devicon-heroku-original"style="margin-left: .5rem;" title="heroku"></i>
+      </div>
+    </td>
+    <td align="center">
+      <a href="https://github.com/markanator/csharp_AmbroBlogProject">
+        <img src="./imgs/csharp_blog.png" width="200px;" height="120px" alt=""/><br />
+        <sub>
+          <b>
+            Personal Blog
+          </b>
+        </sub>
+      </a><br />
+      <div style="font-size: 1.5rem; display: flex; justify-content: center;">
+      <i class="devicon-csharp-plain" style="margin-right: .5rem;" title="C#"></i>
+      <i class="devicon-dotnetcore-plain" style="margin-right: .5rem;" title="ASP.NET"></i>
+      <p style="font-size: 1rem" style="margin-right: .5rem;">MVC</p>
+      <i class="devicon-nuget-original" style="margin-left: .5rem;" title="nuget"></i>
+      <i class="devicon-postgresql-plain"style="margin-left: .5rem;" title="postgresql"></i>
+      <i class="devicon-heroku-original"style="margin-left: .5rem;" title="heroku"></i>
+      </div>
+    </td>
+    <td align="center">
+      <a href="https://github.com/markanator/csharp-sports-app">
+        <img src="./imgs/SportsFinalUML.png" width="200px;" alt=""/><br />
+        <sub>
+          <b>
+            Sports League Management
+          </b>
+        </sub>
+      </a><br />
+      <div style="font-size: 1.5rem; display: flex; justify-content: center;">
+      <i class="devicon-csharp-plain" style="margin-right: .5rem;" title="C#"></i>
+      <i class="devicon-dotnetcore-plain" style="margin-right: .5rem;" title="ASP.NET"></i>
+      <p style="font-size: 1rem" style="margin-right: .5rem;">MVC</p>
+      <i class="devicon-nuget-original" style="margin-left: .5rem;" title="nuget"></i>
+      <i class="devicon-postgresql-plain"style="margin-left: .5rem;" title="postgresql"></i>
+      </div>
+    </td>
+    <td align="center">
+      <a href="https://github.com/markanator/csharp-currency-app">
+        <img src="./imgs/terminalApp.jpg" width="200px;" alt=""/><br />
+        <sub>
+          <b>
+            Currency Management App
+          </b>
+        </sub>
+      </a><br />
+      <div style="font-size: 1.5rem; display: flex; justify-content: center;">
+      <i class="devicon-csharp-plain" style="margin-right: .5rem;" title="C#"></i>
+      <p style="font-size: 1rem" style="margin-right: .5rem;">WPF</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/markanator/csharp-virtual-eco-system">
+        <img src="./imgs/terminalApp.jpg" width="200px;" alt=""/><br />
+        <sub>
+          <b>
+            Virtual Ecosystem App
+          </b>
+        </sub>
+      </a><br />
+      <div style="font-size: 1.5rem; display: flex; justify-content: center;">
+      <i class="devicon-csharp-plain" style="margin-right: .5rem;" title="C#"></i>
+      <p style="font-size: 1rem" style="margin-right: .5rem;">CLI</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 [website]: https://markambrocio.com
 [twitter]: https://twitter.com/_mark_ambro
