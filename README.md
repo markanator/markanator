@@ -5,30 +5,23 @@
 
 ### Full Stack Software Engineer
 
-Hola, I'm Mark. I am a software engineer who is passionate about interactive media. I like to learn all things tech and help others with tech.
+I am a Software Engineer who is passionate about interactive media, from web applications to virtual reality games. I love to solve problems while leading and lifting others around me.
 
-- 👨🏻‍🎓 Columbia College Chicago Alumn
-- 🎖️ I am a U.S. Army Veteran.
-- 🎉 I am a [Lambda School Graduate!](https://www.credly.com/badges/572f9292-79b4-4e94-b3b0-6b45d910a174/public_url)
-- ⚡ Fun fact: I moonlight as an Indie Game Dev on [twitch][twitch]
+- 🔭 I’m currently working on [**Learnwind.io**](https://learnwind.io)
 
-### Connect with me:
+- 🌱 I’m currently learning and working towards my **Google & Azure Cloud Certifications**
 
-[<img align="left" alt="markambrocio.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="markanator | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="markanator | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
+- 👨‍💻 All of my projects are available at [**markambrocio.com**](https://markambrocio.com)
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+- 🎖️ I am a **U.S. Army Veteran.**
 
-<!-- <details>
-  <summary>
-  View JavaScript / TypeScript Applications
-  </summary> -->
+- 🎉 I am a [**Bootcamp Graduate!**](https://www.credly.com/badges/572f9292-79b4-4e94-b3b0-6b45d910a174/public_url)
 
-## View my JavaScript / TypeScript Projects
+- ⚡ Fun fact: **I moonlight as an Indie Game Dev on [twitch][twitch]**
 
-##### Notice: Please allow the backend to warm up.
+## View my JavaScript / TypeScript Projects:
+
+_Frontend + Backend; Newest - Oldest_
 
 <table>
   <tr>
@@ -42,12 +35,11 @@ Hola, I'm Mark. I am a software engineer who is passionate about interactive med
         </sub>
       </a><br />
       <div style="font-size: 1.5rem;">
-      <i class="devicon-typescript-plain" title="typescript"></i>
-        <i class="devicon-react-original" title="react"></i>
-        <i class="devicon-express-original" title="express"></i>
-        <i class="devicon-graphql-plain" title="graphql"></i>
-        <i class="devicon-postgresql-plain" title="postgresql"></i>
-        <i class="devicon-heroku-original" title="heroku"></i>
+        <img height="20" width="20" src="https://cdn.simpleicons.org/typescript" />
+        <img height="20" width="20" src="https://cdn.simpleicons.org/react" />
+        <img height="20" width="20" src="https://cdn.simpleicons.org/express" />
+        <img height="20" width="20" src="https://cdn.simpleicons.org/graphql" />
+        <img height="20" width="20" src="https://cdn.simpleicons.org/postgresql" />
       </div>
     </td>
     <td align="center">
@@ -59,9 +51,9 @@ Hola, I'm Mark. I am a software engineer who is passionate about interactive med
           </b>
         </sub>
       </a><br />
-      <div style="font-size: 1.5rem; display: flex; justify-content: center;">
-        <i class="devicon-gatsby-plain" title="react / Gatsby" style="margin-right: .5rem;"></i>
-        <p style="font-size: 1rem">Sanity.io CMS</p>
+      <div style="font-size: 1.5rem;">
+        <img height="20" width="20" src="https://cdn.simpleicons.org/gatsby" />
+        <img height="20" width="20" src="https://cdn.simpleicons.org/jamstack" />
       </div>
     </td>
     <td align="center">
@@ -74,8 +66,8 @@ Hola, I'm Mark. I am a software engineer who is passionate about interactive med
         </sub>
       </a><br />
       <div style="font-size: 1.5rem;">
-        <i class="devicon-react-original" title="react"></i>
-        <i class="devicon-firebase-plain" title="firebase"></i>
+        <img height="20" width="20" src="https://cdn.simpleicons.org/react" />
+        <img height="20" width="20" src="https://cdn.simpleicons.org/firebase" />
       </div>
     </td>
   <td align="center">
@@ -88,10 +80,9 @@ Hola, I'm Mark. I am a software engineer who is passionate about interactive med
         </sub>
       </a><br />
       <div style="font-size: 1.5rem;">
-        <i class="devicon-react-original" title="react"></i>
-        <i class="devicon-express-original" title="express"></i>
-        <i class="devicon-mongodb-plain-wordmark" title="mongoDB"></i>
-        <i class="devicon-heroku-original" title="heroku"></i>
+        <img height="20" width="20" src="https://cdn.simpleicons.org/react" />
+        <img height="20" width="20" src="https://cdn.simpleicons.org/express" />
+        <img height="20" width="20" src="https://cdn.simpleicons.org/mongodb" />
       </div>
     </td>
   </tr>
@@ -106,10 +97,9 @@ Hola, I'm Mark. I am a software engineer who is passionate about interactive med
         </sub>
       </a><br />
       <div style="font-size: 1.5rem;">
-        <i class="devicon-handlebars-plain" title="Pug"></i>
-        <i class="devicon-express-original" title="express"></i>
-        <i class="devicon-mongodb-plain" title="mongoDB"></i>
-        <i class="devicon-heroku-original" title="heroku"></i>
+        <img height="20" width="20" src="https://cdn.simpleicons.org/pug" />
+        <img height="20" width="20" src="https://cdn.simpleicons.org/express" />
+        <img height="20" width="20" src="https://cdn.simpleicons.org/mongodb/47A248" />
       </div>
     </td>
   <td align="center">
@@ -117,12 +107,13 @@ Hola, I'm Mark. I am a software engineer who is passionate about interactive med
         <img src="./imgs/portfolio.png" width="200px;" alt=""/><br />
         <sub>
           <b>
-            Portfolio v1
+            Portfolio
           </b>
         </sub>
       </a><br />
       <div style="font-size: 1.5rem;">
-        <i class="devicon-gatsby-plain" title="react / Gatsby"></i>
+        <img height="20" width="20" src="https://cdn.simpleicons.org/react" />
+        <img height="20" width="20" src="https://cdn.simpleicons.org/gatsby" />
       </div>
     </td>
   </tr>
@@ -130,6 +121,8 @@ Hola, I'm Mark. I am a software engineer who is passionate about interactive med
 <!-- </details> -->
 
 ## View my C# Projects
+
+_Newest - Oldest_
 
 <table>
   <tr>
@@ -142,13 +135,12 @@ Hola, I'm Mark. I am a software engineer who is passionate about interactive med
           </b>
         </sub>
       </a><br />
-      <div style="font-size: 1.5rem; display: flex; justify-content: center;">
-      <i class="devicon-csharp-plain" style="margin-right: .5rem;" title="C#"></i>
-      <i class="devicon-dotnetcore-plain" style="margin-right: .5rem;" title="ASP.NET"></i>
+      <div style="font-size: 1.5rem; display: flex; justify-content: center; align-items: flex-start;">
+      <img height="20" width="20" src="https://cdn.simpleicons.org/csharp" />
+      <img height="20" width="20" src="https://cdn.simpleicons.org/dotnet" />
       <p style="font-size: 1rem" style="margin-right: .5rem;">MVC</p>
-      <i class="devicon-nuget-original" style="margin-left: .5rem;" title="nuget"></i>
-      <i class="devicon-postgresql-plain"style="margin-left: .5rem;" title="postgresql"></i>
-      <i class="devicon-heroku-original"style="margin-left: .5rem;" title="heroku"></i>
+      <img height="20" width="20" src="https://cdn.simpleicons.org/nuget" />
+      <img height="20" width="20" src="https://cdn.simpleicons.org/postgresql" />
       </div>
     </td>
     <td align="center">
@@ -160,13 +152,12 @@ Hola, I'm Mark. I am a software engineer who is passionate about interactive med
           </b>
         </sub>
       </a><br />
-      <div style="font-size: 1.5rem; display: flex; justify-content: center;">
-      <i class="devicon-csharp-plain" style="margin-right: .5rem;" title="C#"></i>
-      <i class="devicon-dotnetcore-plain" style="margin-right: .5rem;" title="ASP.NET"></i>
+      <div style="font-size: 1.5rem; display: flex; justify-content: center; align-items: flex-start;">
+      <img height="20" width="20" src="https://cdn.simpleicons.org/csharp" />
+      <img height="20" width="20" src="https://cdn.simpleicons.org/dotnet" />
       <p style="font-size: 1rem" style="margin-right: .5rem;">MVC</p>
-      <i class="devicon-nuget-original" style="margin-left: .5rem;" title="nuget"></i>
-      <i class="devicon-postgresql-plain"style="margin-left: .5rem;" title="postgresql"></i>
-      <i class="devicon-heroku-original"style="margin-left: .5rem;" title="heroku"></i>
+      <img height="20" width="20" src="https://cdn.simpleicons.org/nuget" />
+      <img height="20" width="20" src="https://cdn.simpleicons.org/postgresql" />
       </div>
     </td>
     <td align="center">
@@ -178,12 +169,12 @@ Hola, I'm Mark. I am a software engineer who is passionate about interactive med
           </b>
         </sub>
       </a><br />
-      <div style="font-size: 1.5rem; display: flex; justify-content: center;">
-      <i class="devicon-csharp-plain" style="margin-right: .5rem;" title="C#"></i>
-      <i class="devicon-dotnetcore-plain" style="margin-right: .5rem;" title="ASP.NET"></i>
+      <div style="font-size: 1.5rem; display: flex; justify-content: center; align-items: flex-start;">
+      <img height="20" width="20" src="https://cdn.simpleicons.org/csharp" />
+      <img height="20" width="20" src="https://cdn.simpleicons.org/dotnet" />
       <p style="font-size: 1rem" style="margin-right: .5rem;">MVC</p>
-      <i class="devicon-nuget-original" style="margin-left: .5rem;" title="nuget"></i>
-      <i class="devicon-postgresql-plain"style="margin-left: .5rem;" title="postgresql"></i>
+      <img height="20" width="20" src="https://cdn.simpleicons.org/nuget" />
+      <img height="20" width="20" src="https://cdn.simpleicons.org/postgresql" />
       </div>
     </td>
     <td align="center">
@@ -195,8 +186,8 @@ Hola, I'm Mark. I am a software engineer who is passionate about interactive med
           </b>
         </sub>
       </a><br />
-      <div style="font-size: 1.5rem; display: flex; justify-content: center;">
-      <i class="devicon-csharp-plain" style="margin-right: .5rem;" title="C#"></i>
+      <div style="font-size: 1.5rem; display: flex; justify-content: center; align-items: flex-start;">
+      <img height="20" width="20" src="https://cdn.simpleicons.org/csharp" />
       <p style="font-size: 1rem" style="margin-right: .5rem;">WPF</p>
       </div>
     </td>
@@ -211,9 +202,9 @@ Hola, I'm Mark. I am a software engineer who is passionate about interactive med
           </b>
         </sub>
       </a><br />
-      <div style="font-size: 1.5rem; display: flex; justify-content: center;">
-      <i class="devicon-csharp-plain" style="margin-right: .5rem;" title="C#"></i>
-      <p style="font-size: 1rem" style="margin-right: .5rem;">CLI</p>
+      <div style="font-size: 1.5rem; display: flex; justify-content: center; align-items: flex-start;">
+      <img height="20" width="20" src="https://cdn.simpleicons.org/csharp" />
+      <img height="20" width="20" src="https://cdn.simpleicons.org/windowsterminal" />
       </div>
     </td>
   </tr>
