@@ -1,15 +1,8 @@
 # Hi there, I'm Mark! 👋
 
-[![Website](https://img.shields.io/website?label=markambrocio.com&style=for-the-badge&url=https%3A%2F%2Fmarkambrocio.com%2F)](https://markambrocio.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/_mark_ambro?color=%231DA1F2&label=follow%20_mark_ambro&style=for-the-badge)](https://twitter.com/_mark_ambro)
-
 ### Software Engineer
 
 I am a Software Engineer who is passionate about interactive media, from web applications to virtual reality games. I love to solve problems while leading and lifting others around me.
-
-- 🔭 I’m currently working on [**Learnwind.io**](https://learnwind.io)
-
-- 🌱 I’m currently learning and working towards my **Google & Azure Cloud Certifications**
 
 - 👨‍💻 All of my projects are available at [**markambrocio.com**](https://markambrocio.com)
 
