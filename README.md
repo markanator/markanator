@@ -4,11 +4,11 @@
 
 I am a Software Engineer who is passionate about interactive media, from web applications to virtual reality games. I love to solve problems while leading and lifting others around me.
 
-- 👨‍💻 All of my projects are available at [**markambrocio.com**](https://markambrocio.com)
+- 👨‍💻 All of my projects are available at [**markambrocio.com**](https://go.markambrocio.com/site)
 
 - 🎖️ I am a **U.S. Army Veteran.**
 
-- 🎉 I am a [**Bootcamp Graduate!**](https://www.credly.com/badges/572f9292-79b4-4e94-b3b0-6b45d910a174/public_url)
+- 🎉 I am a [**Bootcamp Graduate!**](https://go.markambrocio.com/cs-cert)
 
 - ⚡ Fun fact: **I moonlight as an Indie Game Dev on [twitch][twitch]**
 
@@ -19,7 +19,7 @@ _Frontend + Backend; Newest - Oldest_
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/markanator/fullstack-vr-funding">
+      <a href="https://go.markambrocio.com/angel-funds">
         <img src="./imgs/vrFunds.png" width="200px;" alt=""/><br />
         <sub>
           <b>
@@ -36,7 +36,7 @@ _Frontend + Backend; Newest - Oldest_
       </div>
     </td>
     <td align="center">
-      <a href="https://github.com/markanator/slick-slice">
+      <a href="https://go.markambrocio.com/fs-slick-slices">
         <img src="./imgs/slickSlice.png" width="200px;" alt=""/><br />
         <sub>
           <b>
@@ -50,7 +50,7 @@ _Frontend + Backend; Newest - Oldest_
       </div>
     </td>
     <td align="center">
-      <a href="https://github.com/markanator/rosemary-personal-financee">
+      <a href="https://go.markambrocio.com/fs-finances">
         <img src="./imgs/rosemaryPF.png" width="200px;" alt=""/><br />
         <sub>
           <b>
@@ -64,7 +64,7 @@ _Frontend + Backend; Newest - Oldest_
       </div>
     </td>
   <td align="center">
-      <a href="https://github.com/markanator/fullstack-foodtruck-trackr">
+      <a href="https://go.markambrocio.com/fs-truck-bites">
         <img src="./imgs/foodtrucks.png" width="200px;" alt=""/><br />
         <sub>
           <b>
@@ -81,7 +81,7 @@ _Frontend + Backend; Newest - Oldest_
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/markanator/dang-thats-delicious">
+      <a href="https://go.markambrocio.com/fs-delicious-node">
         <img src="./imgs/dangThatsDelicious.png" width="200px;" alt=""/><br />
         <sub>
           <b>
@@ -93,20 +93,6 @@ _Frontend + Backend; Newest - Oldest_
         <img height="20" width="20" src="https://cdn.simpleicons.org/pug" />
         <img height="20" width="20" src="https://cdn.simpleicons.org/express" />
         <img height="20" width="20" src="https://cdn.simpleicons.org/mongodb/47A248" />
-      </div>
-    </td>
-  <td align="center">
-      <a href="https://github.com/markanator/portfolio">
-        <img src="./imgs/portfolio.png" width="200px;" alt=""/><br />
-        <sub>
-          <b>
-            Portfolio
-          </b>
-        </sub>
-      </a><br />
-      <div style="font-size: 1.5rem;">
-        <img height="20" width="20" src="https://cdn.simpleicons.org/react" />
-        <img height="20" width="20" src="https://cdn.simpleicons.org/gatsby" />
       </div>
     </td>
   </tr>
