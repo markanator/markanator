@@ -12,7 +12,7 @@ I am a Software Engineer who is passionate about interactive media, from web app
 
 - ⚡ Fun fact: **I moonlight as an Indie Game Dev on [twitch][twitch]**
 
-[website]: [https://go.markambrocio.com/site]
+[website]: https://go.markambrocio.com/site
 [cert]: https://go.markambrocio.com/cs-cert
 [linkedin]: https://go.markambrocio.com/linkedin
 [twitch]: https://go.markambrocio.com/twitch
