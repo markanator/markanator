@@ -1,8 +1,8 @@
 # Hi there, I'm Mark! 👋
 
-### Software Engineer
+### Full-Stack Software Engineer
 
-I am a Software Engineer who is passionate about interactive media, from web applications to virtual reality games. I love to solve problems while leading and lifting others around me.
+I am a full-stack software engineer who is passionate about interactive media, from web applications to virtual reality games. I love to solve problems while leading and lifting others around me.
 
 - 👨‍💻 All of my projects are available at [**markambrocio.com**][website]
 
